@@ -418,14 +418,14 @@ document.body.appendChild(blog);
 // ===== MITRA / PARTNERSHIP =====
 const mitraData = [{
         img: "https://skolla.online/wp-content/uploads/2023/11/logo-kampus-merdeka-1024x393.png",
-        // link: "https://kemdiktisaintek.go.id/",
-        link: "index.html",
+        link: "https://kemdiktisaintek.go.id/",
+        // link: "index.html",
         title: "Kampus Merdeka",
     },
     {
         img: "img/fedora.png",
-        // link: "https://fedoraweb.site/",
-        link: "index.html",
+        link: "https://fedoraweb.site/",
+        // link: "index.html",
         title: "Fedora Aliansi Digital",
     },
     {
@@ -436,17 +436,18 @@ const mitraData = [{
     },
     {
         img: "https://files.startupranking.com/startup/thumb/24471_74eecacf22614aefb17dfd382b55f7744cdb3e2e_codepolitan_m.png",
-        link: "index.html",
+        link: "https://www.codepolitan.com/",
         title: "Codepolitan",
     },
     {
         img: "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/mlogo/PRE-70111-06e9aaf7-eb16-45d3-998b-d0fa5f50d608.jpg",
+         link:  "https://progate.com/",
         link: "index.html",
         title: "Progate",
     },
     {
         img: "https://brandlogos.net/wp-content/uploads/2022/05/udemy-logo_brandlogos.net_xwww7-512x512.png",
-         link:  "https://www.udemy.com/,"
+         link:  "https://www.udemy.com/",
         // link: "index.html",
         title: "Udemy",
     },
