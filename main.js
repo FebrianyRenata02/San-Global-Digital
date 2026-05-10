@@ -442,7 +442,7 @@ const mitraData = [{
     {
         img: "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/mlogo/PRE-70111-06e9aaf7-eb16-45d3-998b-d0fa5f50d608.jpg",
          link:  "https://progate.com/",
-        link: "index.html",
+        // link: "index.html",
         title: "Progate",
     },
     {
