@@ -298,9 +298,11 @@ const portfolioData = [{
         title: "Portofolio Update",
     },
     {
-        img: "https://specialteam.vercel.app/assets/img/main_icon2.svg",
-        link: "https://specialteam.vercel.app/",
-        title: "Special Team",
+        img: "https://media.istockphoto.com/id/1219544511/pt/vetorial/picture-gallery-icon-logo-vector-illustrattion-photo-gallery-icon-design-vector-template.jpg?s=170x170&k=20&c=KLoDvpV4g9968PC4b0qChIcFNPzGYgFDnKPCknVtgH8=",
+        // link: "https://specialteam.vercel.app/",
+        // title: "Special Team",
+        link: "index.html",
+        title: "Lorem",
     },
     {
         img: "img/Sunset Brew.png",
