@@ -245,7 +245,7 @@ about.className = "about";
 about.id = "about";
 about.innerHTML = `
   <div class="about-left">
-    <img src="reta.png" alt="Founder">
+    <img src="img/RenataFounder.png" alt="Founder">
   </div>
   <div class="about-right">
     <h2>San Digital Agency</h2>
