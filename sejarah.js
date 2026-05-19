@@ -258,7 +258,7 @@ item6.innerHTML = `
     <strong>Sunrise</strong> yang berarti <em>Terbenam menjadi Terbit</em>.
   </p>
 
-  <img src="https://raw.githubusercontent.com/FebrianyRenata02/San-Digital-Academy/refs/heads/main/img/sunrise%20tech.png" alt="Sunrise Tech" class="timeline-img small">
+  <img src="https://raw.githubusercontent.com/FebrianyRenata02/San-Global-Digital/refs/heads/main/img/Sunrise%20Tech%20Bootcamp.png" alt="Sunrise Tech" class="timeline-img small">
 
   <p>
     Yang artinya membangun.
