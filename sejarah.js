@@ -240,7 +240,7 @@ item5.innerHTML = `
     <strong>Sunset</strong> menjadi <strong>Sunrise</strong>
   </p>
 
-  <img src="https://raw.githubusercontent.com/FebrianyRenata02/San-Digital-Academy/refs/heads/main/img/sunrise%20brew.png" alt="Sunrise Brew" class="timeline-img">
+  <img src="https://raw.githubusercontent.com/FebrianyRenata02/San-Global-Digital/refs/heads/main/img/Sunrise_brew1.png" alt="Sunrise Brew" class="timeline-img">
 `;
 
 // 6️⃣ Item Oktober 2026
