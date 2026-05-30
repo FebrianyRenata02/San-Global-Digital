@@ -432,8 +432,8 @@ const mitraData = [{
     },
     {
         img: "https://github.com/FebrianyRenata02/Bootcamp_Spesial_Team/blob/main/img/Spesial_team.png?raw=true",
-        // link: "https://www.webskynet.my.id",
-        link: "https://discord.com/invite/EQZHmPfJHS",
+        link: "index.html",
+        //link: "https://discord.com/invite/EQZHmPfJHS",
         title: "Special Team",
     },
     {
