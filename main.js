@@ -427,7 +427,7 @@ const mitraData = [{
     {
         img: "img/skynet.png",
         // link: "https://www.webskynet.my.id",
-        link: "index.html",
+        link: "https://myskynet.com/",
         title: "Skynet",
     },
     {
