@@ -203,7 +203,7 @@ visiMisiSection.innerHTML = `
     <ol>
       <li>Menyediakan layanan digital yang berkualitas tinggi untuk mendukung lembaga pendidikan, pelajar, dan tenaga pengajar dalam menghadapi era transformasi digital.</li>
       <li>Mengembangkan solusi kreatif dan edukatif berbasis teknologi yang relevan dengan kebutuhan pembelajaran modern.</li>
-      <li>Mendorong kolaborasi antara dunia pendidikan dan industri digital, guna menciptakan ekosistem pembelajaran yang adaptif dan berkelanjutan.</li>
+      <li>Mendorong kolaborasi antara dunia pendidikan dan industri digital, menciptakan ekosistem pembelajaran yang adaptif dan berkelanjutan.</li>
       <li>Meningkatkan literasi digital masyarakat melalui pelatihan, konten edukatif, dan program berbasis teknologi.</li>
       <li>Menjaga profesionalisme, integritas, dan inovasi sebagai landasan utama dalam memberikan layanan kepada setiap mitra dan klien.</li>
     </ol>
