@@ -150,7 +150,7 @@ navbar.appendChild(navMenu);
 
 // ===== Join Discord Button dengan Icon =====
 const joinBtn = document.createElement("a");
-joinBtn.href = "https://discord.gg/3SBS68MGvN";
+joinBtn.href = "https://discord.gg/wJZmace2V8";
 joinBtn.target = "_blank";
 joinBtn.className = "join-btn";
 joinBtn.innerHTML = `<i class="fa-brands fa-discord"></i> Join Discord`;
