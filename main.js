@@ -428,12 +428,11 @@ const mitraData = [{
     {
         img: "img/skynet.png",
         // link: "https://www.webskynet.my.id",
-        // link: "https://myskynet.com/",
         link: "https://myskynetid.com/",
         title: "Skynet",
     },
     {
-        img: "https://github.com/FebrianyRenata02/Bootcamp_Spesial_Team/blob/main/img/Spesial_team.png?raw=true",
+        img: "https://raw.githubusercontent.com/FebrianyRenata02/San-Global-Digital/refs/heads/main/img/Spesial_team.png",
         link: "index.html",
         link: "https://discord.com/invite/EQZHmPfJHS",
         title: "Special Team",
