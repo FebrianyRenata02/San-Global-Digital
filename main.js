@@ -460,6 +460,12 @@ const mitraData = [{
         // link: "index.html",
         title: "Udemy",
     },
+        {
+        img: "https://brandlogos.net/wp-content/uploads/2022/05/udemy-logo_brandlogos.net_xwww7-512x512.png",
+         link:  "https://bpkpenabur.or.id/berita/new-513",
+        // link: "index.html",
+        title: "SD & SMP Yayasan Pendidikan Kristen Penabur Cimahi",
+    },
 ];
 
 const mitraSection = document.createElement("section");
