@@ -462,9 +462,9 @@ const mitraData = [{
     },
         {
         img: "https://play-lh.googleusercontent.com/WxZ_Nxzwc3gU4jZqB43NEEDRjqXcfapCZcpdty1kmNc989JPE7lmgJFmnoQDpFo1VqchEH728FSLfjVk6oeZOw",
-         link:  "https://bpkpenabur.or.id/berita/new-513",
+         link:  "https://bpkpenabur.or.id/",
         // link: "index.html",
-        title: "SD & SMP Yayasan Pendidikan Kristen Penabur Cimahi",
+        title: "Yayasan Pendidikan Kristen Penabur",
     },
 ];
 
