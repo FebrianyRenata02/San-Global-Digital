@@ -428,8 +428,8 @@ const mitraData = [{
     {
         img: "img/skynet.png",
         // link: "https://www.webskynet.my.id",
-        //link: "https://myskynetid.com/",
-        link: "index.html",
+        link: "https://myskynetid.com/",
+        //link: "index.html",
         title: "Skynet",
     },
     {
@@ -441,8 +441,8 @@ const mitraData = [{
     },
     {
         img: "img/fedora.png",
-        //link: "https://fedoraweb.site/",
-        link: "index.html",
+        link: "https://fedoraweb.site/",
+        //link: "index.html",
         title: "Fedora Aliansi Digital",
     },
     {
