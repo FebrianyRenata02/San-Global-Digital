@@ -441,8 +441,8 @@ const mitraData = [{
     },
     {
         img: "img/fedora.png",
-        link: "https://fedoraweb.site/",
-        //link: "index.html",
+        //link: "https://fedoraweb.site/",
+        link: "index.html",
         title: "Fedora Aliansi Digital",
     },
     {
