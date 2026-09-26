@@ -434,15 +434,15 @@ const mitraData = [{
     },
     {
         img: "https://raw.githubusercontent.com/FebrianyRenata02/San-Global-Digital/refs/heads/main/img/Spesial_team.png",
-        link: "index.html",
+        // link: "index.html",
         link: "https://st-specialteam.netlify.app/",
         // link: "https://discord.com/invite/EQZHmPfJHS",
         title: "Special Team",
     },
     {
         img: "img/fedora.png",
-        //link: "https://fedoraweb.site/",
-        link: "index.html",
+        link: "https://fedoraweb.site/",
+        // link: "index.html",
         title: "Fedora Aliansi Digital",
     },
     {
