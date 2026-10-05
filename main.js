@@ -312,7 +312,7 @@ const portfolioData = [{
     {
       img: "https://raw.githubusercontent.com/FebrianyRenata02/San-Global-Digital/refs/heads/main/img/SAN-Academy3.png",
         link: "#",
-        title: "SAN Academy Bootcamp 👨‍💻",
+        title: "SAN Academy 👨‍💻",
     },
     {
         img: "https://raw.githubusercontent.com/FebrianyRenata02/San-Digital-Academy/refs/heads/main/img/Kota%20Mati.png",
