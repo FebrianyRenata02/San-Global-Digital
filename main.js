@@ -310,9 +310,9 @@ const portfolioData = [{
         title: "Sunset Brew Coffee ☕",
     },
     {
-      img: "/img/Sunset_Tech_Bootcamp.png",
+      img: "https://raw.githubusercontent.com/FebrianyRenata02/San-Global-Digital/refs/heads/main/img/SAN-Academy3.png",
         link: "#",
-        title: "Sunset Tech Bootcamp 👨‍💻",
+        title: "SAN Academy Bootcamp 👨‍💻",
     },
     {
         img: "https://raw.githubusercontent.com/FebrianyRenata02/San-Digital-Academy/refs/heads/main/img/Kota%20Mati.png",
