@@ -249,12 +249,8 @@ item6.className = "timeline-item right";
 item6.innerHTML = `
   <h4>Oktober 2026 - Febuari 2027</h4>
 
-    Kami mendirikan sebuah kelas & bootcamp.<br>
+    Kami mendirikan sebuah kelas & bootcamp <em>SAN Academy</em>.<br>
   <img src="https://raw.githubusercontent.com/FebrianyRenata02/San-Global-Digital/refs/heads/main/img/SAN-Academy3.png" alt="Sunset Tech" class="timeline-img small">
-
-  <p>
-   <em>SAN Academy</em>.
-  </p>
 `;
 
 timeline.append(item1, item2, item3, item4, item5, item6);
