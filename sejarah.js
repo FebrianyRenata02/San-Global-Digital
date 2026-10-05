@@ -249,19 +249,11 @@ item6.className = "timeline-item right";
 item6.innerHTML = `
   <h4>Oktober 2026 - Febuari 2027</h4>
 
-  <strong>Bulan Mei</strong> sampai <strong>Agustus</strong> 
     Kami mendirikan sebuah kelas & bootcamp.<br>
-  <img src="https://raw.githubusercontent.com/FebrianyRenata02/San-Digital-Academy/refs/heads/main/img/sunset%20tech.png" alt="Sunset Tech" class="timeline-img small">
+  <img src="https://raw.githubusercontent.com/FebrianyRenata02/San-Global-Digital/refs/heads/main/img/SAN-Academy3.png" alt="Sunset Tech" class="timeline-img small">
 
   <p>
-    Mengubah nama <strong>Sunset</strong> menjadi 
-    <strong>Sunrise</strong> yang berarti <em>Terbenam menjadi Terbit</em>.
-  </p>
-
-  <img src="https://raw.githubusercontent.com/FebrianyRenata02/San-Global-Digital/refs/heads/main/img/Sunrise%20Tech%20Bootcamp.png" alt="Sunrise Tech" class="timeline-img small">
-
-  <p>
-    Yang artinya membangun.
+   <em>SAN Academy</em>.
   </p>
 `;
 
