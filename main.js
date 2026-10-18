@@ -439,12 +439,12 @@ const mitraData = [{
         // link: "https://discord.com/invite/EQZHmPfJHS",
         title: "Special Team",
     },
-    {
+   // {
        // img: "img/fedora.png",
        // link: "https://fedoraweb.site/",
         // link: "index.html",
       //  title: "Fedora Aliansi Digital",
-    },
+    //},
     {
         img: "https://files.startupranking.com/startup/thumb/24471_74eecacf22614aefb17dfd382b55f7744cdb3e2e_codepolitan_m.png",
         link: "https://www.codepolitan.com/",
