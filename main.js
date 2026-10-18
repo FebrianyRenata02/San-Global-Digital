@@ -439,7 +439,7 @@ const mitraData = [{
         // link: "https://discord.com/invite/EQZHmPfJHS",
         title: "Special Team",
     },
-    {
+   // {
         img: "img/fedora.png",
         link: "https://fedoraweb.site/",
         // link: "index.html",
