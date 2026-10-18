@@ -419,7 +419,7 @@ document.body.appendChild(blog);
 
 // ===== MITRA / PARTNERSHIP =====
 const mitraData = [{
-        img: "https://skolla.online/wp-content/uploads/2023/11/logo-kampus-merdeka-1024x393.png",
+        img: "https://www.um-surabaya.ac.id/uploads/home/education/mbkm/foto_akreditasi-admin-QTwgrG.webp",
         //link: "https://kemdiktisaintek.go.id/",
         link: "https://lldikti5.kemdiktisaintek.go.id/home/detailpost/program-merdeka-belajar-kampus-merdeka-tetap-berjalan",
         // link: "index.html",
