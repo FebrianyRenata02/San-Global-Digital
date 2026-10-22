@@ -264,7 +264,7 @@ const services = document.createElement("section");
 services.className = "services";
 services.id = "services";
 services.innerHTML = `
-  <h2>Jasa Services San Digital Agency</h2>
+  <h2>Jasa Services San Global Digital</h2>
   <div class="service-cards">
   
     <div class="card">
