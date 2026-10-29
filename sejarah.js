@@ -302,7 +302,7 @@ document.body.appendChild(preFooter);
 
 // ===== FOOTER =====
 const footer = document.createElement("footer");
-footer.innerHTML = `<p>© 2025 San Digital Agency. All Rights Reserved.</p>`;
+footer.innerHTML = `<p>© 2025 San Global Digital. All Rights Reserved.</p>`;
 document.body.appendChild(footer);
 
 // =======================
