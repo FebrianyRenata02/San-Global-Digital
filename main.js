@@ -580,7 +580,7 @@ document.body.appendChild(preFooter);
 
 // ===== FOOTER =====
 const footer = document.createElement("footer");
-footer.innerHTML = `<p>© 2026 San Digital Agency. All Rights Reserved.</p>`;
+footer.innerHTML = `<p>© 2026 San Global Digital. All Rights Reserved.</p>`;
 document.body.appendChild(footer);
 
 // =======================
