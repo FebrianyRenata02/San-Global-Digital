@@ -201,7 +201,7 @@ timeline.className = "timeline";
 const item1 = document.createElement("div");
 item1.className = "timeline-item left";
 item1.innerHTML = `
-  <p>Dengan adanya perkembangan zaman di dunia Teknologi,<br> maka di bangunlah suatu usaha Bisnis<br>Bernama San Digital Agency.</p>
+  <p>Dengan adanya perkembangan zaman di dunia Teknologi,<br> maka di bangunlah suatu usaha Bisnis<br>Bernama San Global Digital.</p>
 `;
 
 // 2️⃣ Item 2
