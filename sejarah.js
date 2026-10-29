@@ -188,7 +188,7 @@ const titleContainer = document.createElement("div");
 titleContainer.className = "title-container";
 titleContainer.innerHTML = `
   <h3 class="sub-title">Sejarah Pendirian</h3>
-  <h1>San Digital Agency</h1>
+  <h1>San Global Digital</h1>
   <img src="/img/Sunset Brew.png" alt="Sunset Brew" class="header-img">
 `;
 section.appendChild(titleContainer);
