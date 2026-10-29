@@ -209,7 +209,7 @@ const item2 = document.createElement("div");
 item2.className = "timeline-item right";
 item2.innerHTML = `
   <img src="/img/rena.png" alt="CEO">
-  <p><strong>San Digital Agency</strong> di Dirikan oleh seorang CEO asal Bandung Bernama Febriany Renata<br><br>
+  <p><strong>San Global Digital</strong> di Dirikan oleh seorang CEO asal Bandung Bernama Febriany Renata<br><br>
   San di ambil dari kata <strong>Sunset</strong> dalam bahasa inggris yang artinya <strong>Matahari Terbenam.</strong> Yang rencana ke depan akan di buat Bisnis atau Usaha Coffee Shop</p>
 `;
 
