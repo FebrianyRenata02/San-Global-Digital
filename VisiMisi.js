@@ -185,7 +185,7 @@ visiMisiSection.className = "visi-misi";
 
 visiMisiSection.innerHTML = `
   <h3 class="section-subtitle">Visi & Misi</h3>
-  <h1 class="section-title">San Digital <br> Agency</h1>
+  <h1 class="section-title">San Global <br> Digital</h1>
 
   <div class="decor-line">
     <span class="line-yellow"></span>
