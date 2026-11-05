@@ -487,6 +487,24 @@ const mitraData = [{
         // link: "index.html",
         title: "Universitas Komputer Indonesia",
     },
+         {
+        img: "https://raw.githubusercontent.com/FebrianyRenata02/San-Global-Digital/refs/heads/main/img/Guru_Era_Digital.png",
+         link:  "https://t.me/grupWebinarPendidikan",
+        // link: "index.html",
+        title: "Guru Era Digital",
+    },
+               {
+        img: "https://raw.githubusercontent.com/FebrianyRenata02/San-Global-Digital/refs/heads/main/img/Info_Webinar_Pendidikan.png",
+         link:  "https://t.me/infowebinarpendidikan",
+        // link: "index.html",
+        title: "Info Webinar Pendidikan",
+    },
+         {
+        img: "https://raw.githubusercontent.com/FebrianyRenata02/San-Global-Digital/refs/heads/main/img/Universitas_Komputer_Indonesia.png",
+         link:  "https://www.unikom.ac.id/id",
+        // link: "index.html",
+        title: "Universitas Komputer Indonesia",
+    },
 ];
 
 const mitraSection = document.createElement("section");
