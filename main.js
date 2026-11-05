@@ -499,12 +499,6 @@ const mitraData = [{
         // link: "index.html",
         title: "Info Webinar Pendidikan",
     },
-         {
-        img: "https://raw.githubusercontent.com/FebrianyRenata02/San-Global-Digital/refs/heads/main/img/Universitas_Komputer_Indonesia.png",
-         link:  "https://www.unikom.ac.id/id",
-        // link: "index.html",
-        title: "Universitas Komputer Indonesia",
-    },
 ];
 
 const mitraSection = document.createElement("section");
