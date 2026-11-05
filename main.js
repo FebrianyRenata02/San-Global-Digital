@@ -314,10 +314,17 @@ const portfolioData = [{
         link: "#",
         title: "SAN Academy 👨‍💻",
     },
-    {
-        img: "https://raw.githubusercontent.com/FebrianyRenata02/San-Digital-Academy/refs/heads/main/img/Kota%20Mati.png",
-        link: "https://kota-mati.vercel.app/",
-        title: "Kota Mati",
+    //{
+       // img: "https://raw.githubusercontent.com/FebrianyRenata02/San-Digital-Academy/refs/heads/main/img/Kota%20Mati.png",
+       // link: "https://kota-mati.vercel.app/",
+       // title: "Kota Mati",
+    //},
+       {
+        img: "https://media.istockphoto.com/id/1219544511/pt/vetorial/picture-gallery-icon-logo-vector-illustrattion-photo-gallery-icon-design-vector-template.jpg?s=170x170&k=20&c=KLoDvpV4g9968PC4b0qChIcFNPzGYgFDnKPCknVtgH8=",
+        // link: "https://specialteam.vercel.app/",
+        // title: "Special Team",
+        link: "index.html",
+        title: "Lorem",
     },
 ];
 
