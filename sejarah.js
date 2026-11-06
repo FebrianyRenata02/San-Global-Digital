@@ -16,7 +16,7 @@ navbar.className = "navbar";
 // ===== Logo =====
 const logo = document.createElement("div");
 logo.className = "logo";
-logo.innerHTML = `<img src="img/Agency Logo Transparant.png" alt="San Digital Logo">`;
+logo.innerHTML = `<img src="img/SAN_Global.png" alt="San Global Digita">`;
 // klik logo → arahkan ke halaman beranda (index.html)
 logo.addEventListener("click", () => {
     window.location.href = "index.html";
