@@ -16,7 +16,7 @@ navbar.className = "navbar";
 // ===== Logo =====
 const logo = document.createElement("div");
 logo.className = "logo";
-logo.innerHTML = `<img src="img/Agency Logo Transparant.png" alt="San Digital Logo">`;
+logo.innerHTML = `<img src="img/SAN_Global.png" alt="San Digital Logo">`;
 logo.addEventListener("click", () => {
     window.scrollTo({
         top: 0,
