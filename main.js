@@ -566,7 +566,7 @@ preFooter.className = "pre-footer";
 preFooter.innerHTML = `
   <div class="pre-footer-container">
     <div class="footer-column">
-      <img src="img/Agency Logo Transparant.png" alt="San Logo" class="footer-logo scroll-top" />
+      <img src="https://raw.githubusercontent.com/FebrianyRenata02/San-Global-Digital/refs/heads/main/img/SAN_Global.png" alt="San Logo" class="footer-logo scroll-top" />
     </div>
 
     <div class="footer-column">
