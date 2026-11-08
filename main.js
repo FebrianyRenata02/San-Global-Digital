@@ -504,7 +504,7 @@ const mitraData = [{
 const mitraSection = document.createElement("section");
 mitraSection.className = "mitra";
 mitraSection.id = "mitra";
-mitraSection.innerHTML = `<h2>Mitra</h2>`;
+mitraSection.innerHTML = `<h2>Mitra Partnership</h2>`;
 
 const mitraGrid = document.createElement("div");
 mitraGrid.className = "mitra-grid";
