@@ -439,19 +439,19 @@ const mitraData = [{
         //link: "index.html",
         title: "Skynet",
     },
-    {
-        img: "https://raw.githubusercontent.com/FebrianyRenata02/San-Global-Digital/refs/heads/main/img/Spesial_team.png",
+    // {
+    //     img: "https://raw.githubusercontent.com/FebrianyRenata02/San-Global-Digital/refs/heads/main/img/Spesial_team.png",
         // link: "index.html",
-        link: "https://st-specialteam.netlify.app/",
+        // link: "https://st-specialteam.netlify.app/",
         // link: "https://discord.com/invite/EQZHmPfJHS",
-        title: "Special Team",
-    },
-    {
+        // title: "Special Team",
+    // },
+    // {
         // img: "img/fedora.png",
         // link: "https://fedoraweb.site/",
         // link: "index.html",
-        title: "Fedora Aliansi Digital",
-    },
+        // title: "Fedora Aliansi Digital",
+    // },
     {
         img: "https://files.startupranking.com/startup/thumb/24471_74eecacf22614aefb17dfd382b55f7744cdb3e2e_codepolitan_m.png",
         link: "https://www.codepolitan.com/",
